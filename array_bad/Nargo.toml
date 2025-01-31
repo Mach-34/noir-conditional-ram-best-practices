@@ -1,0 +1,8 @@
+[package]
+name = "array_bad"
+type = "bin"
+authors = [""]
+version = ">=1.0.0"
+compiler_version = ">=1.0.0"
+
+[dependencies]

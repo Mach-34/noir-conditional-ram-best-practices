@@ -1,0 +1,2 @@
+[workspace]
+members = ["array_bad", "array_good", "bounded_vec_bad", "bounded_vec_good"]
