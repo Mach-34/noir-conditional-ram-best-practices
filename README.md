@@ -16,7 +16,7 @@ Example issues: [noir-lang/noir#6144](https://github.com/noir-lang/noir/issues/6
 nargo version used: 1.0.0-beta.1+03b58fa2dfcc8acc8cf5198b1b23b55676fbdb02
 bb version used: 0.66.0
 
-```
+```console
 git clone https://github.com/mach-34/noir-conditional-ram-best-practices
 cd noir-conditional-ram-best-practices
 # compile the circuits and get gate counts
